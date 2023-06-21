@@ -29,12 +29,20 @@ body {
   color: black;
   padding: 20px;
   border-radius: 5px;
+  text-align: center;
 }
 .food-img {
   width: 100%;
   height: auto;
 }
-.hyundaiCardEvent {
+.food button {
+  padding: 10px;
+  line-height: 5px;
+  background: #d8c8a7;
+  border: 0;
+  border-radius: 5px;
+}
+.banner {
   text-align: center;
   background: #3d321c;
   padding: 20px;
